@@ -43,18 +43,3 @@ RAI is a flexible AI agent framework to develop and deploy Embodied AI features 
 -   [ ] rai_finetune: Finetune LLMs on your embodied data.
 
 
-### Citation
-
-If you find our work helpful for your research, please consider citing the following BibTeX entry.
-
-```bibtex
-@misc{rachwał2025raiflexibleagentframework,
-      title={RAI: Flexible Agent Framework for Embodied AI},
-      author={Kajetan Rachwał and Maciej Majek and Bartłomiej Boczek and Kacper Dąbrowski and Paweł Liberadzki and Adam Dąbrowski and Maria Ganzha},
-      year={2025},
-      eprint={2505.07532},
-      archivePrefix={arXiv},
-      primaryClass={cs.MA},
-      url={https://arxiv.org/abs/2505.07532},
-}
-```
