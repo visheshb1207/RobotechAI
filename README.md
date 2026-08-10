@@ -3,7 +3,6 @@
 RAI is a flexible AI agent framework to develop and deploy Embodied AI features for your robots.
 
 ---
-
 <div align="center">
 
 ![rai-image](./docs/imgs/RAI_simple_diagram_medium.png)
